@@ -1,0 +1,16 @@
+body, html {
+  height: 100%;
+}
+
+.flex {
+  display: flex;
+  height: 100%;
+}
+
+.left {
+  width: 30%;
+}
+
+.right {
+  width: 70%;
+}
